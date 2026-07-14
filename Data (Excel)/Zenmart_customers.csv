@@ -1,0 +1,45 @@
+Customer_ID,Full_Name,Gender,Age,City,Region,Join_Date,Loyalty_Tier
+C001,Amina Bello,Female,32,Lagos,South,15/03/2022,Gold
+C002,Tunde Ojo,Male,28,Lagos,South,20/07/2021,Platinum
+C003,Grace Okafor,Female,45,Enugu,East,10/01/2023,Silver
+C004,Emeka Nwosu,Male,38,Ibadan,West,05/11/2022,Gold
+C005,Halima Musa,Female,25,Kaduna,North,18/05/2023,Bronze
+C006,Seun Adeyemi,Male,41,Abuja,North,12/09/2020,Platinum
+C007,Ngozi Eze,Female,29,Aba,East,28/02/2023,Silver
+C008,Bola Akin,Female,35,Abeokuta,West,14/06/2022,Gold
+C009,Usman Kalu,Male,50,Port Harcourt,South,03/04/2019,Platinum
+C010,Chioma Obi,Female,31,Port Harcourt,South,20/12/2021,Gold
+C011,Damilola Ajayi,Male,33,Ibadan,West,10/08/2022,Silver
+C012,Fatima Idris,Female,27,Enugu,East,09/08/2023,Bronze
+C013,Yusuf Lawal,Male,44,Abuja,North,17/02/2020,Platinum
+C014,Blessing Nnaji,Female,22,Lagos,South,03/11/2023,Bronze
+C015,Kabiru Hassan,Male,37,Kano,North,30/08/2022,Silver
+C016,Adaeze Onwu,Female,33,Uyo,East,25/05/2021,Gold
+C017,Rotimi Badmus,Male,26,Ibadan,West,14/11/2023,Bronze
+C018,Safiya Gambo,Female,39,Abuja,North,07/07/2020,Platinum
+C019,Chuka Okonkwo,Male,48,Lagos,South,22/10/2019,Platinum
+C020,Precious Udo,Female,24,Aba,East,01/02/2024,Bronze
+C021,Biodun Salami,Male,36,Abeokuta,West,19/04/2022,Silver
+C022,Zainab Sule,Female,30,Kano,North,08/09/2021,Gold
+C023,Emeka Eze,Male,43,Lagos,South,31/12/2020,Silver
+C024,Nkechi Osu,Female,28,Enugu,East,16/06/2023,Bronze
+C025,Musa Danjuma,Male,55,Kaduna,North,03/03/2018,Platinum
+C026,Folake Adeleke,Female,34,Ibadan,West,27/01/2022,Gold
+C027,Ibrahim Bello,Male,29,Abuja,North,05/09/2023,Silver
+C028,Uchechi Nweze,Female,41,Aba,East,14/04/2021,Gold
+C029,Hauwa Maikudi,Female,38,Ibadan,West,11/07/2022,Silver
+C030,Sunday Okoro,Male,46,Kano,North,29/05/2020,Gold
+C031,Ifeoma Chukwu,Female,27,Enugu,East,03/12/2023,Bronze
+C032,Lanre Ogunleye,Male,52,Abeokuta,West,18/08/2018,Platinum
+C033,Aisha Yusuf,Female,23,Sokoto,North,12/03/2024,Bronze
+C034,Obinna Okeke,Male,40,Ibadan,West,06/02/2021,Gold
+C035,Modupe Sanni,Female,36,Uyo,East,24/10/2022,Silver
+C036,Nuhu Garba,Male,31,Abuja,North,30/04/2023,Bronze
+C037,Temitope Awe,Female,44,Lagos,South,15/11/2020,Platinum
+C038,Festus Okolie,Male,39,Ibadan,West,02/08/2021,Gold
+C039,Zuliat Bello,Female,26,Aba,East,21/07/2023,Silver
+C040,Godwin Ama,Male,47,Kano,North,09/06/2019,Platinum
+C041,Hadiza Sani,Female,33,Lagos,South,14/02/2022,Gold
+C042,Victor Eze,Male,28,Abeokuta,West,07/10/2023,Bronze
+C043,Rahmat Adamu,Female,35,Kano,North,20/05/2022,Silver
+C044,Chidi Okafor,Male,42,Enugu,East,18/03/2021,Gold

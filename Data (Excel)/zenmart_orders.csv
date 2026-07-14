@@ -1,0 +1,51 @@
+Order_ID,Customer_ID,Order_Date,Ship_Date,Region,Category,Product_Name,Quantity,Unit_Price,Discount,Shipping_Cost,Payment_Method,Order_Status
+1001,C001,03/01/2024,07/01/2024,North,Electronics,Samsung Galaxy A54,2,"185,000",5,"2,500",Transfer,Delivered
+1002,C002,05/01/2024,09/01/2024,South,Clothing,Premium Silk Abaya,3,"45,000",10,"1,500",Card,Delivered
+1003,C003,08/01/2024,13/01/2024,East,Food,Basmati Rice 50kg,5,"22,000",0,"3,000",Cash,Delivered
+1004,C004,10/01/2024,15/01/2024,West,Electronics,HP Pavilion Laptop,1,"420,000",8,"5,000",Transfer,Delivered
+1005,C005,14/01/2024,19/01/2024,North,Clothing,Chiffon Hijab Set,10,"8,500",15,"1,000",Card,Delivered
+1006,C006,17/01/2024,22/01/2024,South,Furniture,Executive Office Chair,1,"85,000",0,"7,500",Transfer,Delivered
+1007,C007,20/01/2024,25/01/2024,East,Food,Palm Oil 25L,8,"12,000",5,"2,500",Cash,Delivered
+1008,C008,23/01/2024,28/01/2024,West,Clothing,Embroidered Abaya,2,"62,000",10,"1,500",Card,Delivered
+1009,C009,26/01/2024,31/01/2024,South,Electronics,iPhone 14,1,"850,000",0,"3,500",Transfer,Delivered
+1010,C010,29/01/2024,03/02/2024,North,Food,Mixed Spice Pack,20,"3,500",0,"1,000",Cash,Delivered
+1011,C001,02/02/2024,,South,Electronics,Tecno Pad 10,2,"95,000",5,"2,000",Transfer,Pending
+1012,C011,05/02/2024,10/02/2024,West,Furniture,Dining Table Set,1,"125,000",5,"12,000",Card,Delivered
+1013,C012,08/02/2024,13/02/2024,East,Clothing,Jersey Hijab,6,"5,500",0,"1,000",Transfer,Delivered
+1014,C013,11/02/2024,16/02/2024,North,Electronics,Dell Inspiron 15,1,"385,000",10,"5,000",Card,Delivered
+1015,C014,14/02/2024,19/02/2024,South,Food,Groundnut Oil 10L,6,"8,500",0,"1,500",Cash,Delivered
+1016,C015,17/02/2024,22/02/2024,East,Clothing,PREMIUM SILK ABAYA,2,"45,000",10,"1,500",Transfer,Delivered
+1017,C016,20/02/2024,25/02/2024,West,Furniture,3-Door Wardrobe,1,"195,000",8,"15,000",Card,Delivered
+1018,C004,23/02/2024,28/02/2024,West,Electronics,Tecno Spark 20,3,"78,000",5,"2,000",Cash,Delivered
+1019,C017,26/02/2024,02/03/2024,North,Food,Semo 10kg,12,"4,500",0,"2,000",Transfer,Delivered
+1020,C018,01/03/2024,,South,Clothing,chiffon hijab set,8,"8,500",15,"1,000",Card,Pending
+1021,C019,04/03/2024,09/03/2024,East,Electronics,Samsung Tab A8,1,"145,000",5,"2,500",Transfer,Delivered
+1022,C020,07/03/2024,12/03/2024,West,Food,Brown Rice 25kg,4,"18,000",0,"2,500",Cash,Delivered
+1023,C021,10/03/2024,15/03/2024,North,Furniture,Plastic Garden Chair,5,"12,000",0,"3,000",Card,Delivered
+1024,C002,13/03/2024,18/03/2024,South,Clothing,Premium Silk Abaya,1,"45,000",10,"1,500",Transfer,Delivered
+1025,C022,16/03/2024,21/03/2024,East,Electronics,Lenovo IdeaPad,1,"310,000",5,"5,000",Card,Delivered
+1026,C023,19/03/2024,24/03/2024,West,Food,Pepper Mix 5kg,15,"2,800",0,"1,500",Cash,Delivered
+1027,C024,22/03/2024,27/03/2024,North,Clothing,Lace Hijab,4,"9,500",5,"1,000",Transfer,Delivered
+1028,C025,25/03/2024,,South,Furniture,Coffee Table,2,"55,000",0,"5,000",Card,Cancelled
+1029,C026,28/03/2024,02/04/2024,East,Electronics,Infinix Hot 40,4,"92,000",5,"2,000",Cash,Delivered
+1030,C001,01/04/2024,06/04/2024,North,Clothing,Embroidered Abaya,2,"62,000",10,"1,500",Transfer,Delivered
+1031,C027,04/04/2024,09/04/2024,South,Electronics,Samsung Galaxy A54,3,"185,000",5,"2,500",Card,Delivered
+1032,C028,07/04/2024,12/04/2024,West,Food,Basmati Rice 50kg,2,"22,000",0,"3,000",Transfer,Delivered
+1033,C029,10/04/2024,15/04/2024,East,Furniture,2-Door Wardrobe,1,"145,000",8,"12,000",Cash,Delivered
+1034,C030,13/04/2024,18/04/2024,North,Clothing,Chiffon Hijab Set,5,"8,500",15,"1,000",Card,Delivered
+1035,C031,16/04/2024,21/04/2024,South,Electronics,Tecno Pad 10,1,"95,000",5,"2,000",Transfer,Delivered
+1036,C009,19/04/2024,24/04/2024,South,Food,Palm Oil 25L,4,"12,000",5,"2,500",Cash,Delivered
+1037,C032,22/04/2024,27/04/2024,East,Clothing,Cotton Abaya,3,"38,000",5,"1,500",Card,Delivered
+1038,C033,25/04/2024,30/04/2024,West,Furniture,Executive Office Chair,2,"85,000",0,"7,500",Transfer,Delivered
+1039,C034,28/04/2024,03/05/2024,North,Food,Semo 10kg,8,"4,500",0,"2,000",Cash,Delivered
+1040,C002,01/05/2024,06/05/2024,South,Electronics,HP Pavilion Laptop,1,"420,000",8,"5,000",Card,Delivered
+1041,C035,05/05/2024,10/05/2024,West,Clothing,Premium Silk Abaya,2,"45,000",10,"1,500",Transfer,Delivered
+1042,C036,08/05/2024,13/05/2024,East,Electronics,iPhone 14,1,"850,000",0,"3,500",Cash,Delivered
+1043,C037,11/05/2024,16/05/2024,North,Food,Mixed Spice Pack,10,"3,500",0,"1,000",Card,Delivered
+1044,C038,14/05/2024,19/05/2024,South,Clothing,Jersey Hijab,7,"5,500",0,"1,000",Transfer,Delivered
+1045,C039,17/05/2024,22/05/2024,West,Furniture,Dining Table Set,1,"125,000",5,"12,000",Cash,Delivered
+1046,C040,20/05/2024,25/05/2024,East,Electronics,Tecno Spark 20,2,"78,000",5,"2,000",Card,Delivered
+1047,C041,23/05/2024,,North,Clothing,Embroidered Abaya,1,"62,000",10,"1,500",Transfer,Pending
+1048,C042,26/05/2024,31/05/2024,South,Food,Groundnut Oil 10L,5,"8,500",0,"1,500",Cash,Delivered
+1049,C043,29/05/2024,03/06/2024,West,Electronics,Samsung Tab A8,1,"145,000",5,"2,500",Transfer,Delivered
+1050,C044,01/06/2024,06/06/2024,North,Furniture,Plastic Garden Chair,4,"12,000",0,"3,000",Card,Delivered
