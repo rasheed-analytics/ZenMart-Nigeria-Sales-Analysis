@@ -1,16 +1,22 @@
-# ZenMart-Nigeria-Sales-Analysis
+# End-to-End E-Commerce Sales Analytics: Regional Revenue Performance, Customer Loyalty & Delivery Operations
 
-Project Overview
+## Project Overview
+An end-to-end data analytics project (ZenMart Nigeria) analysing 50 orders
+across 4 Nigerian regions. Covers revenue performance, customer behaviour,
+product analysis, delivery operations, and loyalty tier insights.
 
-An end-to-end data analytics project analysing 50 orders across 4 Nigerian regions. Covers revenue performance, customer behaviour, product analysis, delivery operations, and loyalty tier insights.
+**Built by:** Tijani Rasheed Adebayo — Data Analyst
+**Tools:** Microsoft Excel | MySQL | Power BI | GitHub
+**Scope:** 50 orders, 44 customers, 27 products, 6 months (Jan–Jun 2024)
 
-Built by: Rasheed A. Tijani — Data Analyst
+## Built by: Rasheed A. Tijani — Data Analyst
 
-Tools: Microsoft Excel | MySQL | Power BI 
+## Tools: Microsoft Excel | MySQL | Power BI 
 
 Scope: 50 orders, 44 customers, 27 products, 6 months (Jan–Jun 2024)
 
-📊 Tools & Skills Used
+## 📊 Tools & Skills Used
+
 Excel
 Data cleaning, SUMIFS, VLOOKUP, Pivot Tables, IFS()
 
@@ -20,20 +26,7 @@ Database design, JOINs, window functions, DATEDIFF
 Power BI
 KPI cards, DAX measures, slicers, interactive dashboard
 
-📁 Repository Structure
-zenmart-sql-analysis/
-├── data/
-│   ├── zenmart_orders.csv
-│   └── zenmart_customers.csv
-├── sql/
-│   ├── 01_data_cleaning.sql
-│   ├── 02_analysis_queries.sql
-│   └── 03_window_functions.sql
-├── dashboard/
-│   └── ZenMart_Dashboard.png
-└── README.md
-
-💡 Key Business Insights
+## 💡 Key Business Insights
 Total delivered revenue across all regions: ₦7,556,475 (H1 2024)
 East region leads all regions in revenue at ₦2,336,950 (31%)
 Electronics drives 67% of total revenue — iPhone 14 is top product at ₦1.7M
@@ -43,7 +36,7 @@ January and May are peak revenue months
 Platinum and Gold customers together drive 60% of total revenue
 Average order value: ₦164,271 per delivered order
 
-🧹 Data Cleaning (Excel)
+## 🧹 Data Cleaning (Excel)
 Fix product name casing
 =PROPER(G2)
 Standardize text case
@@ -60,7 +53,7 @@ Total Sales
 =H2*I2*(1-(J2/100))
 Revenue after discount
 
-🗄️ SQL Analysis
+## 🗄️ SQL Analysis
 Data Fixes:
 -- Fix commas in Unit_Price
 UPDATE orders SET Unit_Price = REPLACE(Unit_Price, ',', '');
